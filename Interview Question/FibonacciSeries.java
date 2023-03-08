@@ -12,7 +12,7 @@ public class FibonacciSeries {
 			n1=n3;
 			System.out.println(n3);
 		}
-		
+		System.out.println("name : Vikas");
 		
 	}
 
